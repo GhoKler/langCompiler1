@@ -5,7 +5,7 @@ This is a file for Compile C++ in terminal using g++ command, follow the steps f
 
 1: Getting File
 
-[Alternative 1] 1- Clone the Repostory (Terminal):
+<b>[Alternative 1] 1- Clone the Repostory (Terminal):</b>
 - cd {YOUR PATH}
 - git clone https://github.com/GhoKler/langCompiler1.git
 
@@ -13,5 +13,5 @@ This is a file for Compile C++ in terminal using g++ command, follow the steps f
 
 
 
-[Alternative 2] 1- Download the "tempFile" File:
+<b>[Alternative 2] 1- Download the "tempFile" File:<b>
 - Download it from github, then move it into the folder with your c++ file (In our case the "test" folder)
