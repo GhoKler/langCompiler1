@@ -11,5 +11,7 @@ This is a file for Compile C++ in terminal using g++ command, follow the steps f
 
 //{YOUR PATH} Example: "/Users/ghokler/Desktop/test"
 
+
+
 [Alternative 2] 1- Download the "tempFile" File:
-- Download it from github, then move it into the folder with your c++ file
+- Download it from github, then move it into the folder with your c++ file (In our case the "test" folder)
