@@ -9,7 +9,11 @@ This is a file for Compile C++ in terminal using g++ command, follow the steps f
 - cd {YOUR PATH}
 - git clone https://github.com/GhoKler/langCompiler1.git
 
-<span style="color:green;">//{YOUR PATH} Example: "/Users/ghokler/Desktop/test"</span>
+```diff
+
+#//{YOUR PATH} Example: "/Users/ghokler/Desktop/test"
+
+```
 
 
 
