@@ -7,16 +7,16 @@ echo "${bold}-Type \"source c++.sh\""
 cat > c++.sh << start/end
 cd $var1
 
-g++ $var2 -o compiler2
+g++ $var2 -o compiler
 
 bold=\$(tput bold)
 normal=\$(tput sgr0)
 
 echo ""
-echo "For Excecute The File Type: \"${var1}/compiler2\" or \"run\""
+echo "For Excecute The File Type: \"${var1}/compiler\" or \"run\""
 echo ""
 
 function run() {
-    ${var1}/compiler2
+    ${var1}/compiler
 }
 start/end
