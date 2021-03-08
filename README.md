@@ -44,4 +44,4 @@ Place yourself in the terminal with the "tempFile" file in the same folder your 
 
 <h1>4: Running our C++ File</h1>
 
-run
+- run
