@@ -6,12 +6,12 @@ This is a file for Compile C++ in terminal using g++ command, follow the steps f
 <h1>1: Getting File</h1>
 
 <b>[Alternative 1] 1- Clone the Repostory (Terminal):</b>
-- cd {YOUR PATH}
+- cd {YOUR FOLDER PATH}
 - git clone https://github.com/GhoKler/langCompiler1.git
 
 ```diff
 
-#//{YOUR PATH} Example: "/Users/ghokler/Desktop/test"
+#//{YOUR FOLDER PATH} Example: "/Users/ghokler/Desktop/test"
 
 ```
 
@@ -22,4 +22,26 @@ This is a file for Compile C++ in terminal using g++ command, follow the steps f
 
 
 
-<h1></h1>
+<h1>2: Giving tempFile our Files Directions Data </h1>
+Place yourself in the terminal with the "tempFile" file in the same folder your c++ file is placed and type:
+
+- bash tempFile
+
+{YOUR FOLDER PATH}
+
+{YOUR C++ FILE PATH}
+
+```diff
+
+#//{YOUR FOLDER PATH} Example: "/Users/ghokler/Desktop/test"
+#//{YOUR C++ FILE PATH} Example: "helloworld.cpp"
+
+```
+
+<h1>3: Declaring our Source File</h1>
+
+- source c++.sh
+
+<h1>4: Running our C++ File</h1>
+
+run
