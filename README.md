@@ -25,9 +25,9 @@ This is a file for Compile C++ in terminal using g++ command, follow the steps f
 <h1>2: Giving tempFile our Files Directions Data </h1>
 Place yourself in the terminal with the "tempFile.sh" file in the same folder your c++ file is placed and type:
 
-( if you are cloning the repostory )- cd {YOUR FOLDER PATH}/langCompiler1
+( if you are cloning the repostory use this before the bash )- cd {YOUR FOLDER PATH}/langCompiler1
 
-( if you are downloading the repostory )- bash tempFile.sh
+- bash tempFile.sh
 
 {YOUR FOLDER PATH}
 
