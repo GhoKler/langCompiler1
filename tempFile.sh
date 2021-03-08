@@ -1,4 +1,5 @@
-bold=$(tput bold)normal=$(tput sgr0)
+bold=$(tput bold)
+normal=$(tput sgr0)
 
 read -p 'Folder: ' var1
 read -p 'c++ File: ' var2
