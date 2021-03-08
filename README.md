@@ -17,15 +17,15 @@ This is a file for Compile C++ in terminal using g++ command, follow the steps f
 
 
 
-<b>[Alternative 2] 1- Download the "tempFile" File:</b>
+<b>[Alternative 2] 1- Download the "tempFile.sh" File:</b>
 - Download it from github, then move it into the folder with your c++ file (In our case the "test" folder)
 
 
 
 <h1>2: Giving tempFile our Files Directions Data </h1>
-Place yourself in the terminal with the "tempFile" file in the same folder your c++ file is placed and type:
+Place yourself in the terminal with the "tempFile.sh" file in the same folder your c++ file is placed and type:
 
-- bash tempFile
+- bash tempFile.sh
 
 {YOUR FOLDER PATH}
 
