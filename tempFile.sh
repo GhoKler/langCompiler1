@@ -18,6 +18,7 @@ echo "For Excecute The File Type: \"${var1}/compiler\" or \"run\""
 echo ""
 
 function run() {
+    g++ $var2 -o compiler
     ${var1}/compiler
 }
 start/end
