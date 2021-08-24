@@ -1,7 +1,7 @@
 # langCompiler1
 C++ Terminal Compiler File
 
-This is a file for Compile C++ in terminal using g++ command, follow the steps for compile your code!
+This is a file for Compile C++ in terminal using g++ command, follow the steps to compile your code!
 
 <h1>1: Getting File</h1>
 
